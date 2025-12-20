@@ -1,7 +1,9 @@
 footer {
     margin-top: 100px;
 }
-body {
-    background-color: black;
-    color: white;
+.trail {
+    position: absolute;
+    width: 12px;
+    height: 12px;
+    
 }
